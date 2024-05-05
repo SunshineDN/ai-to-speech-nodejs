@@ -5,8 +5,10 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "elevenlabs": "^0.4.1",
+    "express": "^4.19.2",
     "uuid": "^9.0.1"
   },
   "scripts": {
